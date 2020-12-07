@@ -1,0 +1,88 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.byCourseCode #courseCodeBlock {
+  display: block;
+}
+
+.byCourseCode #courseTitleBlock {
+  display: none;
+}
+
+.byCourseCode #instructorBlock {
+  display: none;
+}
+
+.byCourseCode #courseLevelBlock {
+  display: none;
+}
+
+.byCourseTitle #courseCodeBlock {
+  display: none;
+}
+
+.byCourseTitle #courseTitleBlock {
+  display: block;
+}
+
+.byCourseTitle #instructorBlock {
+  display: none;
+}
+
+.byCourseTitle #courseLevelBlock {
+  display: none;
+}
+
+.byInstructor #courseCodeBlock {
+  display: none;
+}
+
+.byInstructor #courseTitleBlock {
+  display: none;
+}
+
+.byInstructor #instructorBlock {
+  display: block;
+}
+
+.byInstructor #courseLevelBlock {
+  display: none;
+}
+
+.byCourseLevel #courseCodeBlock {
+  display: none;
+}
+
+.byCourseLevel #courseTitleBlock {
+  display: none;
+}
+
+.byCourseLevel #instructorBlock {
+  display: none;
+}
+
+.byCourseLevel #courseLevelBlock {
+  display: block;
+}
+
+.byInstructorAndLevel #courseCodeBlock {
+  display: none;
+}
+
+.byInstructorAndLevel #courseTitleBlock {
+  display: none;
+}
+
+.byInstructorAndLevel #instructorBlock {
+  display: block;
+}
+
+.byInstructorAndLevel #courseLevelBlock {
+  display: block;
+}
