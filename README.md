@@ -30,3 +30,16 @@ Notice that all APIs are case-sensitive.
 
 # Sample Applicaiton
 A web application of this repository has been deployed to https://jingshaluo-course-app.herokuapp.com/.
+
+# Steps to deploy this application to Heroku
+1. Sign up for Heroku.
+
+2. On dashboard view, create a new application by clicking "New" -> "Create new app".
+
+3. After filling the form, link Heroku app to GitHub account by clicking "Deploy method" -> "GitHub".
+
+4. Then type in the GitHub project name that hosts the project code in "Connect to GitHub" section.
+
+5. Then go to "Settings" tab, add "Nodejs" as "Buildpack" in "Buildpack" section.
+
+6. Go back to "Deploy" tab, click "deploy" button to deploy the app.
